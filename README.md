@@ -5,6 +5,8 @@ Code contains both Simple and Scientific Calculator
 ## Instruction
 This code works only on the Python 3.x version
 
+## Demo
+![Alt text](./Demo.png?raw=true "Demo")
 ## Option
 File --> Scientific Calculator<br>
-About --> Credits
+About --> Developers
